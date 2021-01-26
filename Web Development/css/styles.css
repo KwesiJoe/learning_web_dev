@@ -1,0 +1,22 @@
+/*my first css*/
+
+body{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-color: azure;
+}
+
+img{
+    border: 10px solid dimgray;
+}
+
+blockquote{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-style: italic;
+    text-align: center;
+}
+
+.boldtext{
+    font-weight: 100;
+    font-size: 1.5rem;
+}
